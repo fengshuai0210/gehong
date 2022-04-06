@@ -1,6 +1,6 @@
-# gehong
+# GEHONG
 
-Generating IFS spectra of galaxies
+GEnerate tHe data Of iNtegral field spectrograph of Galaxy
 
 ## Case
 
